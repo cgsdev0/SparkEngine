@@ -7,6 +7,7 @@ package com.sparkengine;
 /**
  *
  * @author Shane
+ * @author poo
  */
 public class SparkEngine {
 
